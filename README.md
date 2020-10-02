@@ -1,2 +1,2 @@
 # python-programs
-He i upload some basic python codes 
+Here I upload some basic python codes 
